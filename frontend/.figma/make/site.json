@@ -1,0 +1,12 @@
+{
+  "title": "Portail Officiel de la Douane Tunisienne | الديوانة التونسية",
+  "description": "Portail officiel de la Direction Générale des Douanes Tunisiennes - E-services, fiscalité des véhicules FCR, Wadh3iati, DAC, tarifs et actualités.",
+  "language": "fr",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
