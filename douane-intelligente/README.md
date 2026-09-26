@@ -22,7 +22,7 @@ php artisan migrate --seed
 php artisan storage:link       # optionnel, voir « Notes »
 ```
 
-`migrate --seed` crée les tables (users, cache, jobs, bureaux, services, rendez-vous, corpus réglementaire) et charge le jeu de démonstration : **5 bureaux de douane**, **5 services**, **10 documents réglementaires** (corpus RAG) et **2 rendez-vous de démo**.
+`migrate --seed` crée les tables (users, cache, jobs, bureaux, services, rendez-vous, corpus réglementaire) et charge le jeu de démonstration : **5 bureaux de douane**, **5 services**, **22 documents réglementaires** (corpus RAG) et **2 rendez-vous de démo**.
 
 ## Variables d'environnement requises
 
